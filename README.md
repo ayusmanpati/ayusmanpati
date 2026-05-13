@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusmanpati.ayusmanpati&right_color=chocolate&left_text=Visitors"  />
+</div>
+
+###
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+AI+Engineer;Building+Scalable+AI+Applications;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI;System+Design+%26+Backend+Architecture;Open+Source+%26+Product+Development" alt="Typing SVG" />
 </p>
@@ -77,22 +83,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayusmanpati&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&hide_border=true" 
+    width="95%" 
+    alt="Activity Graph"
+  />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusmanpati.ayusmanpati&right_color=chocolate&left_text=Visitors"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/pacman-output/breakout-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ###
