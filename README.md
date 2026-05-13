@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">• Full-Stack Developer focused on     scalable backend systems & AI-powered web applications<br>• Skilled in React.js, Next.js, Node.js, Express.js, MongoDB & PostgreSQL<br>• Experienced with REST APIs, Authentication, RBAC & Modular Backend Architectures<br>• Built AI-integrated platforms using FastAPI, LangChain, Gemini APIs, Redis & BullMQ<br>• Strong foundation in Data Structures, Algorithms & OOP using Java/Python<br>• Interested in AI Systems, Backend Engineering, System Design & Product Development<br>• Passionate about building real-world platforms with scalability and performance in mind.</p>
+<p align="left">• Full-Stack Developer focused on scalable backend systems & AI-powered web applications<br>• Skilled in React.js, Next.js, Node.js, Express.js, MongoDB & PostgreSQL<br>• Experienced with REST APIs, Authentication, RBAC & Modular Backend Architectures<br>• Built AI-integrated platforms using FastAPI, LangChain, Gemini APIs, Redis & BullMQ<br>• Strong foundation in Data Structures, Algorithms & OOP using Java/Python<br>• Interested in AI Systems, Backend Engineering, System Design & Product Development<br>• Passionate about building real-world platforms with scalability and performance in mind.</p>
 
 ###
 
@@ -80,8 +80,12 @@
   <a href="https://open.spotify.com/user/31ssiykuebxaqmosdkzd4tiomjai?si=cfe9042aff404d8e" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TWITTER&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/ayusmanpati9114" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TWITTER&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ayusmanpati/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
