@@ -12,6 +12,12 @@
 
 ###
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+AI+Engineer;Building+Scalable+AI+Applications;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI;System+Design+%26+Backend+Architecture;Open+Source+%26+Product+Development" alt="Typing SVG" />
+</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
