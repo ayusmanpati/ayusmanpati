@@ -70,16 +70,25 @@
 
 <p align="left">• Full-Stack Developer focused on scalable backend systems & AI-powered web applications.<br>• Skilled in React.js, Next.js, Node.js, Express.js, MongoDB & PostgreSQL.<br>• Experienced with REST APIs, Authentication, RBAC & Modular Backend Architectures.<br>• Built AI-integrated platforms using FastAPI, LangChain, Gemini APIs, Redis & BullMQ.<br>• Strong foundation in Data Structures, Algorithms & OOP using Java/Python.<br>• Interested in AI Systems, Backend Engineering, System Design & Product Development.<br>• Passionate about building real-world platforms with scalability and performance in mind.</p>
 
-###
-
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bThqNnp6ZGM3OGxzMHpmZ3R2dGF5YnNjbTBha2dqZGVscHN0dWQxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/ayusmanpati/ayusmanpati/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayusmanpati&theme=github_dark" 
+    height="180em" 
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://streak-stats.demolab.com?user=ayusmanpati&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF" 
+  />
+</p>
 
 ###
 
