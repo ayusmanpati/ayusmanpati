@@ -3,21 +3,11 @@
 ###
 
 <p align="center">
-  <a href="https://discord.com/users/713802234831306823">
-    <img src="https://img.shields.io/badge/Discord-ayusmanpati-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://open.spotify.com/user/31ssiykuebxaqmosdkzd4tiomjai?si=cfe9042aff404d8e">
-    <img src="https://img.shields.io/badge/Spotify-Follow-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-  <a href="https://x.com/ayusmanpati9114">
-    <img src="https://img.shields.io/badge/Twitter-@ayusmanpati9114-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayusmanpati/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayusman_Pati-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayusmanpati9114ap@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ayusmanpati9114ap%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://discord.com/users/713802234831306823"><img src="https://img.shields.io/badge/Discord-ayusmanpati-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+  <a href="https://open.spotify.com/user/31ssiykuebxaqmosdkzd4tiomjai?si=cfe9042aff404d8e"><img src="https://img.shields.io/badge/Spotify-Follow-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/></a>&nbsp;
+  <a href="https://x.com/ayusmanpati9114"><img src="https://img.shields.io/badge/Twitter-@ayusmanpati9114-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ayusmanpati/"><img src="https://img.shields.io/badge/LinkedIn-Ayusman_Pati-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:ayusmanpati9114ap@gmail.com"><img src="https://img.shields.io/badge/Gmail-ayusmanpati9114ap%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ###
