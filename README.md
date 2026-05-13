@@ -93,7 +93,7 @@
 
 <td width="30%" align="center">
 
-<img height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bThqNnp6ZGM3OGxzMHpmZ3R2dGF5YnNjbTBha2dqZGVscHN0dWQxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW11eDc2b3g5dXpheWgwMWZ5ODVtNjBpeHBhc2NoMjEwODZtcWQ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 
 </td>
 </tr>
