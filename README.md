@@ -22,6 +22,8 @@
 
 ###
 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react"/>
   <img width="10"/>
@@ -63,12 +65,15 @@
   <img width="10"/>
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="bootstrap"/>
 </p>
+<br>
+
+###
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table>
 <tr>
 <td width="70%" valign="top">
-
-###
 
 • Full-Stack Developer focused on scalable backend systems & AI-powered web applications.<br><br>
 
