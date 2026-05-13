@@ -1,3 +1,7 @@
+<div align="center">
+
+###
+
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ! My name is Ayusman Pati.<br>I'm a Software Developer, from Odisha - India.</h1>
 
 ###
@@ -12,65 +16,59 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusmanpati.ayusmanpati&right_color=chocolate&left_text=Visitors"  />
-</div>
-
-###
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+AI+Engineer;Building+Scalable+AI+Applications;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI;System+Design+%26+Backend+Architecture;Open+Source+%26+Product+Development" alt="Typing SVG" />
 </p>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="nodejs"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="fastapi"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="32" alt="redis"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" alt="postgresql"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32" alt="supabase"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="bootstrap"/>
+</p>
 
 <table>
 <tr>
 <td width="70%" valign="top">
+
+###
 
 • Full-Stack Developer focused on scalable backend systems & AI-powered web applications.<br><br>
 
@@ -131,3 +129,11 @@
 </p>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusmanpati.ayusmanpati&right_color=chocolate&left_text=Visitors"  />
+</div>
+
+###
+
+</div>
